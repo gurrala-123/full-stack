@@ -2,3 +2,6 @@ html and css
 javascript
 bootstrap
 html 5 and css3
+jquery
+application development using api
+
