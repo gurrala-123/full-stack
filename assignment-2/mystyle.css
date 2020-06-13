@@ -1,0 +1,18 @@
+﻿
+
+h1 {
+  text-align: center;
+  color: Red;
+  font-size: 40px;
+}
+
+p.uppercase {
+  text-transform: uppercase;
+}
+p{
+  font-family: "Times New Roman";
+}
+p.italic {
+  font-style: italic;
+}
+
