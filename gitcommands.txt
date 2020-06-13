@@ -1,0 +1,174 @@
+    2  git status
+    3  git --version
+    4  pwd
+    5  ls
+    6  ls -a
+    7  clear
+    8  cd Desktop
+    9  cd Desktop/
+   10  cd Desktop/
+   11  clear
+   12  cd full stack
+   13  cd Desktop/
+   14  cd ..
+   15  cd
+   16  cd Desktop/
+   17  cd Raptor
+   18  clear
+   19  mkdir fullstackdev
+   20  touch full_stack.txt
+   21  ls
+   22  clear
+   23  touch full_stack.txt
+   24  ls
+   25  cat full_stack.txt
+   26  echo "full stack developer">full_stack.txt
+   27  cat full_stack.txt
+   28  gedit full_stack.txt
+   29  nano full_stack.txt
+   30  cat full_stack.txt
+   31  nano data.txt
+   32  ls
+   33  ls -a
+   34  rm data.txt
+   35  rm -f data.txt
+   36  cd ..
+   37  cd
+   38  cd Desktop/
+   39  cd fullstackdev
+   40  mkdir git
+   41  ls
+   42  git init
+   43  git status
+   44  git add assignment1.txt
+   45  git add assignment1/
+   46  git add assignmen-1/
+   47  git add assignmen-1.txt
+   48  git add assignment.txt
+   49  git add assignment.html
+   50  cd ..
+   51  cd
+   52  cd Desktop/
+   53  mkdir fullstackdev
+   54  mkdir fullstackdevop
+   55  ls
+   56  cd fullstackdevop
+   57  touch assgnment-1.txt
+   58  ls
+   59  echo "full stack developer" > assignment-1.txt
+   60  cd ..
+   61  cd
+   62  cd Desktop
+   63  mkdir fullstackdev
+   64  mkdir fullstackdevlop
+   65  ls
+   66  cd fullstackdevelop
+   67  cd fullstackdevlop
+   68  touch assignment-1.html
+   69  ls
+   70  nano assignment-1.html
+   71  mkdir git
+   72  ls
+   73  git init
+   74  git status
+   75  git add assignment-1.html
+   76  git status
+   77  git commit -m "assignment-1"
+   78  git status
+   79  git pull full-stack- master
+   80  git pull full-stack- master
+   81  git pull full-stack- master from https://github.com/gurrala-123/full-stack-
+   82  mkdir full-stack-
+   83  ls
+   84  git remote add full-stack- https://github.com/gurrala-123/full-stack-
+   85  git remote show
+   86  git remote -v
+   87  git pull full-stack- master
+   88  git push -u full-stack- 
+   89  git push --set-upstream full-stack- master
+   90  git push -f --set-upstream full-stack- master
+   91  cd ..
+   92  cd
+   93  cd Desktop
+   94  git init
+   95  git init
+   96  git init
+   97  git add .
+   98  git commit -m "first commit"
+   99  git status
+  100  git remote add origin https://github.com/gurrala-123/full-stack.git
+  101  git push origin master
+  102  git -f origin master
+  103  git status
+  104  cd..
+  105  cd ..
+  106  cd
+  107  cd Desktop
+  108  mkdir fullstackdev
+  109  ls
+  110  cd fullstackdev
+  111  touch assignment-1.html
+  112  ls
+  113  mkdir git
+  114  ls
+  115  git status
+  116  git add assignment-1
+  117  git --version
+  118  pwd
+  119  ls
+  120  ls -a
+  121  cd..
+  122  cd ..
+  123  cd
+  124  cd Desktop
+  125  mkdir fullstackdev
+  126  ls
+  127  touch full_stack.txt
+  128  ls
+  129  cd fullstackdev
+  130  touch full_stack.txt
+  131  ls
+  132  cat full_stack.txt
+  133  echo "full stack developer">full_stack.txt
+  134  cat full_stack.txt
+  135  echo "html and css">full_stack.txt
+  136  cat full_stack.txt
+  137  echo "javascript">>full_stack.txt
+  138  cat full_stack.txt
+  139  gedit full_stack.txt
+  140  nano full_stack.txt
+  141  cat full_stack.txt
+  142  nano data.txt
+  143  ls
+  144  rm data.txt
+  145  ls
+  146  mkdir git
+  147  ls
+  148  git init
+  149  git status
+  150  git status
+  151  git add full_stack.txt
+  152  git status
+  153  git commit -m "first commit"
+  154  git config --global user.email 'lakshmidevilakshmidevi8@gmail.com'
+  155  git config --global user.name 'Lakshmi devi'
+  156  git config --global user.email 
+  157  git config --global user.name 
+  158  git commit -m "first commit"
+  159  nano full_stack.txt
+  160  git status
+  161  git add full_stack.txt
+  162  git commit -m "second commit"
+  163  git log
+  164  mkdir full-stack.txt
+  165  ls
+  166  git remote add full-stack https://github.com/gurrala-123/full-stack
+  167  git remote show
+  168  git remote -v
+  169  git pull full-stack master
+  170  git push -u full-stack
+  171  git push --set-upstream full-stack master
+  172  git push -f --set-upstream full-stack master
+  173  history
+  174  history 173>gitcommands.txt
+  175  history 174 > gitcommands.txt
